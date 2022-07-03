@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThatIndianGuy1999
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python/Django
+- 👀 I’m interested in Full stack Development 
+- 🌱 I’m currently learning Java and spring
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: bisht.yash.007@gmail.com
 
